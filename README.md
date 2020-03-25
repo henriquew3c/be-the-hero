@@ -14,3 +14,20 @@ Projeto React e Node Js criado durante a semana OmniStack 11
 <b>devDependencies</b>
 
 - Nodemon ^2.0.2
+
+<b>Entities</b>
+
+- ONG
+- Incident
+
+<b>Funcionalities into Back-End</b>
+
+- Login
+- Create Ongs
+- Delete Ongs
+- List Ongs
+- Contact Ong
+- Create Incidents
+- Delete Incidents
+- List Incidents
+- List Incidents By Ong
